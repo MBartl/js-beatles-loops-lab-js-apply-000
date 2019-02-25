@@ -6,8 +6,8 @@ function theBeatlesPlay(musicians, instruments) {
   return play;
 }
 
-function johnLennonFacts() {
-    return johnLennonFacts;
+function johnLennonFacts(facts) {
+  
 }
 
 function iLoveTheBeatles() {
