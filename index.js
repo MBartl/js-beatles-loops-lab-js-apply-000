@@ -1,13 +1,16 @@
 function theBeatlesPlay(musicians, instruments) {
-  var play = [];
+  var playOut = [];
   for (var i = 0; i < musicians.length; i++) {
-    play.push(musicians[i] + " plays " + instruments[i]);
+    playOut.push(musicians[i] + " plays " + instruments[i]);
   }
-  return play;
+  return playOut;
 }
 
 function johnLennonFacts(facts) {
-  
+  var factOut = [];
+  while (var i = 0; i < facts.length; i++) {
+    factOut.push(facts[i] + "!!!");
+  }
 }
 
 function iLoveTheBeatles() {
