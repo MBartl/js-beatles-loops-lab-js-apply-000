@@ -5,5 +5,7 @@ function theBeatlesPlay() {
 }
 
 function johnLennonFacts() {
-  for (var i = 0; i<)
+  for (var i = 0; i < johnLennonFacts.length; i++) {
+    
+  }
 }
