@@ -1,5 +1,6 @@
 var musicians = [];
 var instruments = [];
+var facts = [];
 
 function theBeatlesPlay() {
   for (var i = 0; i < musicians.length; i++) {
@@ -8,5 +9,5 @@ function theBeatlesPlay() {
 }
 
 function johnLennonFacts() {
-  arguments
+  
 }
